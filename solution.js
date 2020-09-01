@@ -1,4 +1,3 @@
-
 letterCount = (s) => {
     var obj = {}
     var sort = s.split("").sort()
@@ -13,5 +12,3 @@ letterCount = (s) => {
 
     } return obj
 }
-
-console.log(letterCount('arithmetics'))
